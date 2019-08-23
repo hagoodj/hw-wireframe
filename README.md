@@ -1,7 +1,7 @@
 # Homework 1 Assignment
 
 ## Site Picture
-![Site](./homework1image.jpg)
+![Site](./wireframe.JPG)
 
 ## Technologies Used 
 - HTML - Used to create elements on the DOM
@@ -10,10 +10,10 @@
 - Github - hosts repository that can be deployed to GitHub pages
 
 ## Summary
-This is my completed homework 1 assignment due Thursday 8/22/2019. It contains the basic contents of a webpage. 
+This is my completed homework 1 assignment due Thursday 8/22/2019. It contains some of the basic contents of a webpage. 
 
 ## Code Snippet
-### The following code 
+The following code contains each element of the webpage:
 ```html
 <body>
 
